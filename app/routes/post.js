@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 import express from "express";
 
 import { runQuery, runMutation, runDelation } from "../helpers";

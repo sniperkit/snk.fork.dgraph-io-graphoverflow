@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // import request from "superagent";
 const dgraph = require("dgraph-js");
 const grpc = require("grpc");

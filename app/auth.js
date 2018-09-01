@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 import { Strategy as GitHubStrategy } from "passport-github";
 import { runQuery, runMutation } from "./helpers";
 

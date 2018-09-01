@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 var path = require("path");
 var dotenv = require("dotenv");
 

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 const express = require("express");
 const httpProxy = require("http-proxy");
 const path = require("path");

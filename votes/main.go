@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Original schema:
 // https://ia800500.us.archive.org/22/items/stackexchange/readme.txt
 
